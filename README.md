@@ -1,1 +1,1 @@
-# git-edureka
+# git_edureka
